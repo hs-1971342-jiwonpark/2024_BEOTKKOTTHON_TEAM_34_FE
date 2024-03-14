@@ -17,7 +17,7 @@
         tools:layout="@layout/fragment_chatting_main"/>
     <fragment
         android:id="@+id/navigation_my_page"
-        android:name="com.goorm.kkiri.ui.mypage.MyPageFragment"
+        android:name="com.goorm.kkiri.ui.mypage.fragment.MyPageFragment"
         android:label="MyPageFragment"
         tools:layout="@layout/fragment_my_page"/>
 </navigation>
